@@ -1,6 +1,6 @@
 # dl-coursera
 
-Assignments from [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
+My solutions to assignments from [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 
 Course List:
 
