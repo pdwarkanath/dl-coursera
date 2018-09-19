@@ -5,3 +5,9 @@ Assignments from [Deep Learning Specialization on Coursera](https://www.coursera
 Course List:
 
 1. [Neural Networks and Deep Learning](https://github.com/pdwarkanath/dl-coursera/tree/master/001%20Neural%20Networks%20and%20Deep%20Learning)
+2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+3. Structuring Machine Learning Projects
+4. Convolutional Neural Networks
+5. Sequence Models
+
+Currently I have completed assignments just in course 1. As I complete assignments in the subsequent courses, I will make folders for them and update them with the completed assignments.
