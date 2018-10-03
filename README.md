@@ -10,4 +10,4 @@ Course List:
 4. Convolutional Neural Networks
 5. Sequence Models
 
-Currently I have completed assignments just in course 1. As I complete assignments in the subsequent courses, I will make folders for them and update them with the completed assignments.
+Currently I have completed assignments till course 2. As I complete assignments in the subsequent courses, I will make folders for them and update them with the completed assignments.
