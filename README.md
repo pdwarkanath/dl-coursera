@@ -8,6 +8,6 @@ Course List:
 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/pdwarkanath/dl-coursera/tree/master/002%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 3. Structuring Machine Learning Projects
 4. [Convolutional Neural Networks](https://github.com/pdwarkanath/dl-coursera/tree/master/004%20Convolutional%20Neural%20Networks)
-5. Sequence Models
+5. [Sequence Models](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models)
 
-Currently I have completed assignments till course 2. As I complete assignments in the subsequent courses, I will make folders for them and update them with the completed assignments.
+
