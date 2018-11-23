@@ -15,3 +15,13 @@ Programming Assignments in this course:
 	2. [Face Recognition for the Happy House](https://github.com/pdwarkanath/dl-coursera/blob/master/004%20Convolutional%20Neural%20Networks/week4/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
 	
 The completion certificate is also added in this folder.
+
+Large files that github wouldn't let me upload:
+
+File | Location 
+---|---
+[ResNet50.h5](https://drive.google.com/open?id=1H-54PFXoln5yRaRddG0VvJIjrOWHJWC6) | week2/ResNets
+[yolo.h5](https://drive.google.com/open?id=1yM1LKVIBplcGUULsWP6m9-eWBocwl-yD) | week3/Car detection for Autonomous Driving/model_data
+[imagenet-vgg-verydeep-19.mat](https://drive.google.com/open?id=1d8HFpVTS8gor6AiaPIgaQrfImI6rEQ3S) | week4/Neural Style Transfer/pretrained-model
+
+The location is where the file should go. Clicking the links in the above table will download the files
