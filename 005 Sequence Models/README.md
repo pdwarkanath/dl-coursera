@@ -7,8 +7,8 @@ Programming Assignments in this course:
 	2. [Dinosaur Island - Character-Level Language Modeling](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models/week1/Dinosaur%20Island%20--%20Character-level%20language%20model)
 	3. [Jazz improvisation with LSTM](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models/week1/Jazz%20improvisation%20with%20LSTM)
 2. Week 2:
-	1. [Operations on word vectors - Debiasing](#)
-	2. [Emojify](#)
+	1. [Operations on word vectors - Debiasing](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models/week2/Word%20Vector%20Representation)
+	2. [Emojify](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models/week2/Emojify)
 3. Week 3:
 	1. [Neural Machine Translation with Attention](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models/week3/Machine%20Translation)
 	2. [Trigger word detection](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models/week3/Trigger%20word%20detection)
