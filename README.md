@@ -14,4 +14,4 @@ My solutions to assignments from [Deep Learning Specialization on Coursera](http
 
 ## Certificate
 
-![](/certificates/Specialization-Certificate-page-001.jpg)
+![](/certificates/Specialization-Certificate.jpg)

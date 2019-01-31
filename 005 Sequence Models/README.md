@@ -13,9 +13,10 @@ Programming Assignments in this course:
 	1. [Neural Machine Translation with Attention](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models/week3/Machine%20Translation)
 	2. [Trigger word detection](https://github.com/pdwarkanath/dl-coursera/tree/master/005%20Sequence%20Models/week3/Trigger%20word%20detection)
 
-Still working on completing this course.
 
-Large files that github wouldn't let me upload:
+## Models
+
+Model files are large (>100 mb). Github wouldn't let me upload them. So they're uploaded to my Google Drive with the location where theys should go in the repo.
 
 File | Location 
 ---|---
@@ -28,3 +29,7 @@ File | Location
 
 
 The location is where the file should go. Clicking the links in the above table will download the files
+
+## Certificate
+
+![](/certificates/Sequence-Models-Certificate.jpg)

@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-Programming Assignments in this course:
+## Programming Assignments
 
 1. Week 1:
 	1. [Convolutional Model: step by step](https://github.com/pdwarkanath/dl-coursera/blob/master/004%20Convolutional%20Neural%20Networks/week1/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)
@@ -14,9 +14,10 @@ Programming Assignments in this course:
 	1. [Art generation with Neural Style Transfer](https://github.com/pdwarkanath/dl-coursera/tree/master/004%20Convolutional%20Neural%20Networks/week4/Neural%20Style%20Transfer)
 	2. [Face Recognition for the Happy House](https://github.com/pdwarkanath/dl-coursera/tree/master/004%20Convolutional%20Neural%20Networks/week4/Face%20Recognition)
 	
-The completion certificate is also added in this folder.
 
-Large files that github wouldn't let me upload:
+## Models
+
+Model files are large (>100 mb). Github wouldn't let me upload them. So they're uploaded to my Google Drive with the location where theys should go in the repo
 
 File | Location 
 ---|---
@@ -25,3 +26,7 @@ File | Location
 [imagenet-vgg-verydeep-19.mat](https://drive.google.com/open?id=1d8HFpVTS8gor6AiaPIgaQrfImI6rEQ3S) | week4/Neural Style Transfer/pretrained-model
 
 The location is where the file should go. Clicking the links in the above table will download the files
+
+## Certificate
+
+![](/certificates/Convolutional-Neural-Networks-Certificate.jpg)

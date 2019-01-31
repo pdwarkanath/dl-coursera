@@ -14,4 +14,4 @@
 
 ## Certificate
 
-![](/certificates/Neural-Networks-and-Deep-Learning-Certificate-page-001.jpg)
+![](/certificates/Neural-Networks-and-Deep-Learning-Certificate.jpg)
