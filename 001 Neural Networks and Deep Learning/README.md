@@ -1,6 +1,6 @@
 # Neural Networks and Deep Learning
 
-Programming Assignments in this course:
+## Programming Assignments
 
 1. Week 2:
 	1. [Python Basics with Numpy](https://github.com/pdwarkanath/dl-coursera/tree/master/001%20Neural%20Networks%20and%20Deep%20Learning/week2/Python%20Basics%20with%20Numpy)
@@ -12,5 +12,6 @@ Programming Assignments in this course:
 	2. [Deep Neural Network Application_ Image Classification](https://github.com/pdwarkanath/dl-coursera/tree/master/001%20Neural%20Networks%20and%20Deep%20Learning/week4/Deep%20Neural%20Network%20Application_%20Image%20Classification)
 
 
+## Certificate
 
-The completion certificate is also added in this folder.
+![](certificates/Neural-Networks-and-Deep-Learning-Certificate-page-001.jpg)
