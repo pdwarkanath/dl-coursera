@@ -16,12 +16,12 @@ Programming Assignments in this course:
 
 ## Models
 
-Model files are large (>100 mb). Github wouldn't let me upload them. So they're uploaded to my Google Drive with the location where theys should go in the repo.
+Model files are large (>100 mb). Github wouldn't let me upload them. So they're uploaded to my Google Drive with the location where they should go in the repo.
 
 File | Location 
 ---|---
-[glove.6B.50d.txt](https://drive.google.com/open?id=1QcO3HM-fnJm7XLsftFrfwcg-7qH8W3ZD) | week2/Emojify/data
-[glove.6B.50d.txt](https://drive.google.com/open?id=1QcO3HM-fnJm7XLsftFrfwcg-7qH8W3ZD) | week2/Word Vector Representation/data
+[glove.6B.50d.txt](https://www.kaggle.com/datasets/watts2/glove6b50dtxt) | week2/Emojify/data
+[glove.6B.50d.txt](https://www.kaggle.com/datasets/watts2/glove6b50dtxt) | week2/Word Vector Representation/data
 [X.npy](https://drive.google.com/open?id=1ww5Jd_gAAxOd42wwNrG0N5_4iMVwlHqr) | week3/Trigger word detection/XY_train
 [X_dev.npy](https://drive.google.com/open?id=1Kywd2CvtZjC7-D-LhyGnVaAZj0yQHnaC) | week3/Trigger word detection/XY_dev
 [X.npy](https://drive.google.com/open?id=1ww5Jd_gAAxOd42wwNrG0N5_4iMVwlHqr) | readonly/readonly/Trigger word detection/XY_train
