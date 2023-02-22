@@ -17,13 +17,12 @@
 
 ## Models
 
-Model files are large (>100 mb). Github wouldn't let me upload them. So they're uploaded to my Google Drive with the location where theys should go in the repo
-
+Model files are large (>100 mb). Github wouldn't let me upload them. So here is where to download them from and which folder they go in.
 File | Location 
 ---|---
-[ResNet50.h5](https://drive.google.com/open?id=1H-54PFXoln5yRaRddG0VvJIjrOWHJWC6) | week2/ResNets
-[yolo.h5](https://drive.google.com/open?id=1yM1LKVIBplcGUULsWP6m9-eWBocwl-yD) | week3/Car detection for Autonomous Driving/model_data
-[imagenet-vgg-verydeep-19.mat](https://drive.google.com/open?id=1d8HFpVTS8gor6AiaPIgaQrfImI6rEQ3S) | week4/Neural Style Transfer/pretrained-model
+[ResNet50.h5](https://www.kaggle.com/datasets/keras/resnet50) | week2/ResNets
+[yolo.h5](https://www.kaggle.com/datasets/rmoharir8396/yolo-h5-file) | week3/Car detection for Autonomous Driving/model_data
+[imagenet-vgg-verydeep-19.mat](https://www.kaggle.com/datasets/teksab/imagenetvggverydeep19mat) | week4/Neural Style Transfer/pretrained-model
 
 The location is where the file should go. Clicking the links in the above table will download the files
 
