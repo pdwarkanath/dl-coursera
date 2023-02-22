@@ -24,7 +24,7 @@ File | Location
 [glove.6B.50d.txt](https://www.kaggle.com/datasets/watts2/glove6b50dtxt) | week2/Word Vector Representation/data
 [XY_train, XY_dev](https://github.com/PJY-609/Trigger-word-detection) | week3/Trigger word detection
 
-The location is where the file should go. Clicking the links in the above table will download the files
+The location is where the file should go.
 
 ## Certificate
 
