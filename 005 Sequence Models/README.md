@@ -22,11 +22,7 @@ File | Location
 ---|---
 [glove.6B.50d.txt](https://www.kaggle.com/datasets/watts2/glove6b50dtxt) | week2/Emojify/data
 [glove.6B.50d.txt](https://www.kaggle.com/datasets/watts2/glove6b50dtxt) | week2/Word Vector Representation/data
-[X.npy](https://drive.google.com/open?id=1ww5Jd_gAAxOd42wwNrG0N5_4iMVwlHqr) | week3/Trigger word detection/XY_train
-[X_dev.npy](https://drive.google.com/open?id=1Kywd2CvtZjC7-D-LhyGnVaAZj0yQHnaC) | week3/Trigger word detection/XY_dev
-[X.npy](https://drive.google.com/open?id=1ww5Jd_gAAxOd42wwNrG0N5_4iMVwlHqr) | readonly/readonly/Trigger word detection/XY_train
-[X_dev.npy](https://drive.google.com/open?id=1Kywd2CvtZjC7-D-LhyGnVaAZj0yQHnaC) | readonly/readonly/Trigger word detection/XY_dev
-
+[XY_train, XY_dev](https://github.com/PJY-609/Trigger-word-detection) | week3/Trigger word detection
 
 The location is where the file should go. Clicking the links in the above table will download the files
 
