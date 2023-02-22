@@ -24,7 +24,7 @@ File | Location
 [yolo.h5](https://www.kaggle.com/datasets/rmoharir8396/yolo-h5-file) | week3/Car detection for Autonomous Driving/model_data
 [imagenet-vgg-verydeep-19.mat](https://www.kaggle.com/datasets/teksab/imagenetvggverydeep19mat) | week4/Neural Style Transfer/pretrained-model
 
-The location is where the file should go. Clicking the links in the above table will download the files
+The location is where the file should go.
 
 ## Certificate
 
